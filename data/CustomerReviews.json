@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "client": {
+      "id": 1,
+      "image": "/images/testimonial/client-01.jpg",
+      "fullName": "Martha Maldonado",
+      "designation": "Executive Chairman @ Google"
+    },
+    "description": "Gobind Coach Builders delivered a highly customized solution with remarkable efficiency. Their dedication to quality and precision truly stands out.",
+    "company": "google"
+  },
+  {
+    "id": 2,
+    "client": {
+      "id": 2,
+      "image": "/images/testimonial/client-02.jpg",
+      "fullName": "Cordelia Harvey",
+      "designation": "UX Director @ Google"
+    },
+    "description": "The user interface and experience they built exceeded our expectations. Excellent attention to design and user behavior insights.",
+    "company": "google"
+  },
+  {
+    "id": 3,
+    "client": {
+      "id": 3,
+      "image": "/images/testimonial/client-03.png",
+      "fullName": "Eugenia Garcia",
+      "designation": "Senior PM @ Google"
+    },
+    "description": "We needed a fast, scalable solution—and they delivered on time and beyond scope. Highly recommend for agile product development.",
+    "company": "google"
+  },
+  {
+    "id": 4,
+    "client": {
+      "id": 4,
+      "image": "/images/testimonial/client-04.png",
+      "fullName": "Edward Schwartz",
+      "designation": "CTO @ Google Cloud"
+    },
+    "description": "Impressed by the technical depth and collaborative mindset. They understand product architecture and end-user needs equally well.",
+    "company": "google"
+  },
+  {
+    "id": 5,
+    "client": {
+      "id": 5,
+      "image": "/images/testimonial/client-05.png",
+      "fullName": "Jasmine Kaur",
+      "designation": "Engineering Manager @ Facebook"
+    },
+    "description": "What stood out was their problem-solving attitude. Their team goes beyond the brief to deliver solutions that actually work.",
+    "company": "facebook"
+  },
+  {
+    "id": 6,
+    "client": {
+      "id": 6,
+      "image": "/images/testimonial/client-06.png",
+      "fullName": "Siddharth Mehra",
+      "designation": "Head of Product @ Meta"
+    },
+    "description": "They've mastered the balance between aesthetics and performance. Working with them was smooth and result-oriented.",
+    "company": "facebook"
+  },
+  {
+    "id": 7,
+    "client": {
+      "id": 7,
+      "image": "/images/testimonial/client-07.png",
+      "fullName": "Nina Patel",
+      "designation": "Brand Manager @ Instagram"
+    },
+    "description": "From concept to execution, the creative input was exceptional. They understood our brand tone instantly.",
+    "company": "facebook"
+  },
+  {
+    "id": 8,
+    "client": {
+      "id": 8,
+      "image": "/images/testimonial/client-08.png",
+      "fullName": "Rohit Khanna",
+      "designation": "Visual Strategist @ Meta"
+    },
+    "description": "They combine deep design knowledge with practical delivery. Our campaign visuals came out stunning.",
+    "company": "facebook"
+  },
+  {
+    "id": 9,
+    "client": {
+      "id": 9,
+      "image": "/images/testimonial/client-01.png",
+      "fullName": "Priya Desai",
+      "designation": "Marketing Director @ Yelp"
+    },
+    "description": "Super responsive and committed to deadlines. Our web experience saw a noticeable improvement in performance and engagement.",
+    "company": "yelp"
+  },
+  {
+    "id": 10,
+    "client": {
+      "id": 10,
+      "image": "/images/testimonial/client-02.png",
+      "fullName": "Aditya Sharma",
+      "designation": "Frontend Architect @ Yelp"
+    },
+    "description": "Reliable, innovative, and skilled at transforming wireframes into full-fledged digital experiences. Would gladly work with them again.",
+    "company": "yelp"
+  },
+  {
+    "id": 11,
+    "client": {
+      "id": 11,
+      "image": "/images/testimonial/client-03.png",
+      "fullName": "Sara Bennett",
+      "designation": "Senior Designer @ Yelp"
+    },
+    "description": "Their understanding of design systems and accessibility is top-notch. We learned a lot working with their team.",
+    "company": "yelp"
+  },
+  {
+    "id": 12,
+    "client": {
+      "id": 12,
+      "image": "/images/testimonial/client-04.png",
+      "fullName": "ChatGPT",
+      "designation": "AI Assistant @ OpenAI"
+    },
+    "description": "Collaborating with Akash and the Gobind Coach team has been a pleasure. Their projects demonstrate creativity, precision, and modern technical excellence.",
+    "company": "openai"
+  }
+]

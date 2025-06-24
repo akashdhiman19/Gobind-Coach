@@ -1,0 +1,1510 @@
+[
+  {
+    "id": 1,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Sleeper Coach",
+    "description": "Let us go on a journey of comfort and relaxation with our Sleeper Buses at Gobind Coach. We know that your long-distance travel needs to be not just convenient, but also rejuvenating next time you wake up.",
+    "category": "Default",
+    "slug": "sleeper-bus",
+    "process": {
+      "title": "Our design process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-02",
+    "title": "Luxury Coach",
+    "description": "Greetings from Gobind Coach, a company that designs luxury buses with YOU in mind. Because of our dedication to reinventing travel, every trip in our Victor, Arrow, Gold Star, and Tourista models is a luxurious and comfortable experience created just for you.",
+    "category": "Default",
+    "slug": "luxury-buses",
+    "process": {
+      "title": "Our development process",
+      "description": "Our comprehensive development strategy ensures a perfectly crafted application for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-03.svg",
+      "width": "34",
+      "height": "34"
+    },
+    "iconColorClass": "gradient-color-03",
+    "title": "Deluxe Coach",
+    "description": "Take your comfort to the next level with our Deluxe Buses. We at Gobind Coach take great satisfaction in providing you with a journey that goes above and beyond your expectations.Our Deluxe Buses are furnished with first-rate amenities that were created with you in mind:",
+    "category": "Default",
+    "slug": "deluxe-coach",
+    "process": {
+      "title": "Our online marketing process",
+      "description": "Our comprehensive online marketing strategy ensures enough trafic for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-03.svg",
+      "width": "34",
+      "height": "34"
+    },
+    "iconColorClass": "gradient-color-04",
+    "title": "Passenger Buses",
+    "description": "Our passenger buses at Gobind Coach Builders are unique since we put your comfort and security first. Regarding your everyday journey, we recognize that you, our esteemed passengers, deserve nothing less than the best.",
+    "category": "Default",
+    "slug": "passenger-buses",
+    "process": {
+      "title": "Our business process",
+      "description": "Our comprehensive business strategy ensures quality and perfection for our clients.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-06",
+    "title": "Special Purpose Buses",
+    "description": "Discover the outstanding Special Purpose Buses from Gobind Coach, created to meet your particular needs. We have the ideal solution for you whether you require a Tempo Traveler, Dog Van, Ambulance, Vanity Van, or any other type of customized bus.",
+    "category": "Default",
+    "slug": "special-purpose-buses",
+    "process": {
+      "title": "Our technical process",
+      "description": "Our comprehensive technical strategy ensures a perfectly maintained system for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Institutional Buses",
+    "description": "Greetings from Gobind Coach, your reliable source for institutional buses designed for businesses, institutions, and schools. When it comes to transportation, Gobind Coach Builders is aware of the particular requirements of businesses and educational organizations.",
+    "category": "Default",
+    "slug": "institutional-buses",
+    "process": {
+      "title": "Our content strategy process",
+      "description": "Our comprehensive content strategy ensures top class content for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Arrow Model",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Luxury",
+    "slug": "luxury-buses-gobind-coach",
+    "process": {
+      "title": "Our Victor Model",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted bus for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-02",
+    "title": "Kasper Model",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Luxury",
+    "slug": "luxury-buses-gobind-coach",
+    "process": {
+      "title": "Our Kasper Model",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted bus for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-03.svg",
+      "width": "34",
+      "height": "34"
+    },
+    "iconColorClass": "gradient-color-03",
+    "title": "Tourista Model",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Luxury",
+    "slug": "luxury-buses-gobind-coach",
+    "process": {
+      "title": "Our Tourista Model",
+      "description": "Our comprehensive design strategy ensures a perfectly designed bus for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Spider",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Sleeper",
+    "slug": "sleeper-buses-gobind-coach",
+    "process": {
+      "title": "Our Sleeper Bus Building process",
+      "description": "Our comprehensive content management strategy ensures perfect content for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "SEO",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Deluxe",
+    "slug": "deluxe-buses-gobind-coach",
+    "process": {
+      "title": "Our SEO process",
+      "description": "Our seo strategy enhance trafic for your website.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Digital strategy",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Passenger",
+    "slug": "passenger-buses-gobind-coach",
+    "process": {
+      "title": "Our Passenger Bus Building process",
+      "description": "Our digital strategy ensures a well maintained digital system for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Single Glass",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Institutional",
+    "slug": "institutional-buses-gobind-coach",
+    "process": {
+      "title": "Our Institutional Bus Building process",
+      "description": "Our comprehensive hosting business ensures a secuired hosted database for your website.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-02",
+    "title": "Double Glass",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Institutional",
+    "slug": "institutional-buses-gobind-coach",
+    "process": {
+      "title": "Our design process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-03.svg",
+      "width": "34",
+      "height": "34"
+    },
+    "iconColorClass": "gradient-color-03",
+    "title": "Design",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Special Purpose",
+    "slug": "special-purpose-buses-gobind-coach",
+    "process": {
+      "title": "Our design process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Visual branding",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Our capabilities",
+    "slug": "visual-branding",
+    "process": {
+      "title": "Our visual branding process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-02",
+    "title": "Interaction",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Our capabilities",
+    "slug": "interaction",
+    "process": {
+      "title": "Our interaction process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-01.svg",
+      "width": "34",
+      "height": "34"
+    },
+    "iconColorClass": "gradient-color-03",
+    "title": "Creative production",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Our capabilities",
+    "slug": "creative-production",
+    "process": {
+      "title": "Our creative production process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-03.svg",
+      "width": "34",
+      "height": "34"
+    },
+    "iconColorClass": "gradient-color-04",
+    "title": "Development",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Our capabilities",
+    "slug": "development",
+    "process": {
+      "title": "Our development process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-06",
+    "title": "Digital marketing",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Our capabilities",
+    "slug": "digital-marketing",
+    "process": {
+      "title": "Our digital marketing process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "SEO optimization",
+    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "category": "Our capabilities",
+    "slug": "seo-optimization",
+    "process": {
+      "title": "Our seo optimization process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Discuss",
+    "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit.",
+    "category": "Our ways",
+    "slug": "discuss",
+    "process": {
+      "title": "Our discussion process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Mapping",
+    "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit.",
+    "category": "Our ways",
+    "slug": "mapping",
+    "process": {
+      "title": "Our mapping process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Execution",
+    "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit.",
+    "category": "Our ways",
+    "slug": "execution",
+    "process": {
+      "title": "Our execution process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Expert Craftsmanship",
+    "description": "Our team of highly qualified experts guarantees accuracy and meticulousness in each bus body we construct. Our coaches are made with premium materials and state-of-the-art methods to provide strength, security, and visual appeal.",
+    "category": "Our values",
+    "slug": "our-values-1",
+    "process": {
+      "title": "Our execution process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Custom Solutions",
+    "description": "We are aware that each client has particular needs. We design and construct to your specifications, guaranteeing efficiency, comfort, and functionality whether it's a sleeping bus, luxury coach, or regular transport vehicle.",
+    "category": "Our values",
+    "slug": "our-values-2",
+    "process": {
+      "title": "Our execution process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Innovative Designs",
+    "description": "We incorporate cutting-edge, aerodynamic designs, clever space management, and fashionable interiors to improve your bus's overall appearance and feel while staying ahead of industry trends. Our creative strategy guarantees optimal efficiency and comfort for both passengers and operators.",
+    "category": "Our values",
+    "slug": "our-values-4",
+    "process": {
+      "title": "Our execution process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Customer-Centric Approach",
+    "description": "Our first goal is your satisfaction. We collaborate directly with you at every stage of the design and production process to guarantee openness, prompt delivery, and an exceptional end product.",
+    "category": "Our values",
+    "slug": "our-values-5",
+    "process": {
+      "title": "Our execution process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Trusted Experience",
+    "description": "We put your satisfaction first. Throughout the whole design and manufacturing process, we collaborate directly with you to guarantee openness, prompt delivery, and an exceptional end result.",
+    "category": "Our values",
+    "slug": "our-values-6",
+    "process": {
+      "title": "Our execution process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders starts with a solid foundation. We use high-quality Galvanized Iron (GI) to construct the frame, chassis, floor, side panels, and roof. This ensures a durable and corrosion-resistant structure that can handle the demands of daily travel. The GI provides strength, longevity, and a cost-effective solution, ensuring your buses are built to last.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.JPG"
+        },
+        {
+          "id": 2,
+          "title": "Paneling",
+          "subtitle": "our four step process",
+          "description": "After the robust structure is in place, Gobind Coach Builders focuses on the smooth and attractive exterior. We use GPSP sheets (Galvanized Pre-Painted Steel Sheets) for the body panels. These sheets offer a combination of strength, durability, and a beautiful finish. The galvanized coating provides corrosion resistance, while the pre-painted surface allows for a wide range of colors and designs, giving your buses a unique look.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior",
+          "subtitle": "our four step process",
+          "description": "Gobind Coach Builders knows that a comfortable interior is crucial for a pleasant journey. We use high-quality ABS sheets to create the interior panels, walls, and ceilings, ensuring a smooth and elegant finish. The ABS sheets are lightweight, durable, and easy to clean, making them ideal for the demanding environment of a bus interior.But it's not just about the basics. We also incorporate cool accessories to enhance the passenger experience. These might include stylish seat covers, modern lighting, comfortable flooring, and innovative storage solutions. We strive to create an inviting and functional space that passengers will love.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "This is where Gobind Coach Builders turns your buses into masterpieces. We pay attention to the smallest details, ensuring that every element is perfect. From the exterior paint job to the interior upholstery, we take pride in our craftsmanship. Our skilled team uses the latest tools and techniques to create a flawless finish that will impress your passengers and elevate your brand. We also conduct rigorous quality checks to ensure that every bus meets our high standards before it leaves our facility.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "client": {
+      "id": 1,
+      "image": "/images/testimonial/client-01.jpg",
+      "fullName": "Ram Dalal",
+      "designation": "Ram Dalal Travels"
+    },
+    "description": "Gobind Coach Builders, you've outdone yourselves! The luxury and sleeper buses you delivered are top-notch. The craftsmanship is impeccable, and the comfort is unparalleled. Ram Dalal is thrilled with his new fleet and highly recommends Gobind Coach Builders to anyone seeking the best in bus transportation."
+  },
+  {
+    "id": 2,
+    "client": {
+      "id": 2,
+      "image": "/images/testimonial/client-02.jpg",
+      "fullName": "Kohinoor",
+      "designation": "Kohinoor Bus"
+    },
+    "description": "Kohinoor Travels is incredibly impressed with the quality and service provided by Gobind Coach Builders. The luxury and sleeper buses we recently purchased are a testament to their dedication to excellence. We highly recommend Gobind Coach Builders for their commitment to delivering top-notch vehicles and exceptional customer service."
+  }
+]

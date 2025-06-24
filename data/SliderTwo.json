@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "/images/featured/featured-image-01.jpg",
+    "subtitle": "featured case study",
+    "title": "Logo, Identity & Web Design for Uber",
+    "description": "We partnered with Uber to redesign their brand identity and digital presence. Our goal was to enhance trust and usability across all platforms. The project included logo evolution, color system overhaul, typography refinement, and a scalable website redesign tailored for global users.",
+    "counter": [
+      {
+        "title": "ROI increase",
+        "amount": 23
+      },
+      {
+        "title": "Monthly website visits",
+        "amount": 120
+      }
+    ],
+    "buttonText": "Read Case Study"
+  },
+  {
+    "id": 2,
+    "image": "/images/featured/featured-image-03.jpg",
+    "subtitle": "featured case study",
+    "title": "Digital Platform & Branding for Airbnb Hosts",
+    "description": "Airbnb approached us to craft a streamlined portal for hosts to manage listings, branding, and bookings. We delivered a cohesive design system, improved onboarding flow, and custom dashboards to improve engagement and boost booking success rates.",
+    "counter": [
+      {
+        "title": "ROI increase",
+        "amount": 30
+      },
+      {
+        "title": "Monthly website visits",
+        "amount": 95
+      }
+    ],
+    "buttonText": "Read Case Study"
+  },
+  {
+    "id": 3,
+    "image": "/images/featured/featured-image-04.jpg",
+    "subtitle": "featured case study",
+    "title": "Enterprise UX & System Design for Dropbox",
+    "description": "Dropbox collaborated with us to simplify complex enterprise workflows. We redesigned key touchpoints including file sharing, permission control, and admin panels. The result was a clean, intuitive UX across devices that increased adoption and reduced churn.",
+    "counter": [
+      {
+        "title": "ROI increase",
+        "amount": 19
+      },
+      {
+        "title": "Monthly website visits",
+        "amount": 78
+      }
+    ],
+    "buttonText": "Read Case Study"
+  }
+]

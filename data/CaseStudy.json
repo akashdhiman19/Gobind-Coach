@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "thumbnail": {
+      "src": "/images/case-study/case-study-01.jpg",
+      "width": 600,
+      "height": 700
+    },
+    "category": ["ios", "design"],
+    "title": "Archi – Online platform and website design",
+    "counter": [
+      { "title": "ROI increase", "amount": 18 },
+      { "title": "Monthly website visits", "amount": 75 }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
+    "projectBreif1": {
+      "image": "/images/case-study/case-study-brief-01.jpg",
+      "description": [
+        "Archi is a cloud-based architecture collaboration tool for designers and firms. We designed and developed a responsive web platform with a clean UI and multi-user dashboard system.",
+        "Our UX approach focused on seamless blueprint uploads, live editing, and integration with industry-standard tools like AutoCAD and SketchUp."
+      ]
+    },
+    "projectBreif2": {
+      "image": "",
+      "description": [
+        "We implemented user-specific workflows and cloud storage, enabling real-time sync and commenting across team members.",
+        "Security and role-based access controls were also integrated to support enterprise usage."
+      ]
+    },
+    "solution": {
+      "image": "",
+      "description": [
+        "We delivered a scalable React + Node.js based SPA with Firebase for real-time updates.",
+        "The architecture emphasized performance, clean visual hierarchy, and intuitive navigation for non-technical users."
+      ]
+    },
+    "process": {
+      "title": "Our design process",
+      "description": "We followed a lean design sprint to prototype, validate, and launch with agility.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Identified pain points via stakeholder workshops and current product audit.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Built interactive prototypes using Figma and validated them with target users.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Ran remote usability sessions and refined navigation flow.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Implemented the final platform with responsive design and cloud integration.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "thumbnail": {
+      "src": "/images/case-study/case-study-02.jpg",
+      "width": 600,
+      "height": 700
+    },
+    "category": ["ios", "design"],
+    "title": "Blogar – Magazine platform and website design",
+    "counter": [
+      { "title": "ROI increase", "amount": 22 },
+      { "title": "Monthly website visits", "amount": 95 }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
+    "projectBreif1": {
+      "image": "/images/case-study/case-study-brief-02.jpg",
+      "description": [
+        "Blogar is a multi-author blogging and magazine platform for digital content creators.",
+        "We designed a mobile-first experience focused on speed, readability, and monetization for independent publishers."
+      ]
+    },
+    "projectBreif2": {
+      "image": "",
+      "description": [
+        "Built advanced article search, bookmark features, and a creator dashboard to manage performance.",
+        "We also helped set up Google AdSense integration and newsletter automation via Mailchimp."
+      ]
+    },
+    "solution": {
+      "image": "",
+      "description": [
+        "Created a lightweight frontend with Next.js for blazing fast content delivery.",
+        "Setup role-based content permissions and static generation for SEO-optimized publishing."
+      ]
+    },
+    "process": {
+      "title": "Our design process",
+      "description": "We focused on reader retention, ad viewability, and creator growth.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Analyzed top-performing digital magazines to benchmark UX patterns.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Developed modular component libraries to speed up layout design.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Tested across various devices and collected heatmap data.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Deployed on Vercel with image optimization and custom domain setup.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  }
+]

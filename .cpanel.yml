@@ -1,0 +1,7 @@
+deployment:
+  tasks:
+    - /usr/local/bin/npm install
+    - /usr/local/bin/npm run build
+    - /usr/local/bin/npm run export
+    - rm -rf /home/d2t8oh96novy/public_html/*
+    - cp -r out/* /home/d2t8oh96novy/public_html/

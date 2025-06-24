@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "title": "Los Marineros",
+    "subtitle": "featured case study",
+    "description": "Los Marineros, a premium yacht manufacturer based in Barcelona, sought a brand refresh, new website, and an immersive 3D configurator for customers. Our goal was to blend luxury and digital innovation to match their brand legacy.",
+    "image": "/images/featured/featured-image-01.jpg",
+    "counter": [
+      {
+        "title": "ROI increase",
+        "amount": 15
+      },
+      {
+        "title": "Monthly website visits",
+        "amount": 60
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
+    "projectBreif1": {
+      "image": "/images/featured/featured-brief-01.jpg",
+      "description": [
+        "We revamped their web experience with cinematic visuals, an interactive boat builder, and multilingual support targeting high-net-worth customers.",
+        "Mobile optimization and SEO upgrades led to significant traffic growth and longer user engagement."
+      ]
+    },
+    "projectBreif2": {
+      "image": "",
+      "description": [
+        "Custom backend built for seamless inventory, lead tracking, and CRM integration.",
+        "Partnered with marine lifestyle photographers to generate compelling content for social media and brochures."
+      ]
+    },
+    "solution": {
+      "image": "",
+      "description": [
+        "Designed a 3D configurator with WebGL for real-time yacht customization.",
+        "Integrated secure checkout and inquiry flow with HubSpot CRM."
+      ]
+    },
+    "process": {
+      "title": "Our design process",
+      "description": "From research to real-world testing, our process ensured seamless UX and brand fidelity.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Structure",
+          "subtitle": "our four step process",
+          "description": "Defined IA and component libraries with Figma.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Panneling",
+          "subtitle": "our four step process",
+          "description": "Created modular UI systems for boat interiors.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Interior Design",
+          "subtitle": "our four step process",
+          "description": "Rendered realistic interiors using Blender and React Three Fiber.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Final Finishing",
+          "subtitle": "our four step process",
+          "description": "Launched with SEO tuning, A/B testing, and analytics dashboard.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Whitehorse",
+    "subtitle": "featured case study",
+    "description": "Whitehorse, an equestrian luxury brand in Kentucky, needed a digital catalog and ecommerce site for high-value horse gear. Our team delivered a refined D2C Shopify experience that increased online conversions.",
+    "image": "/images/featured/featured-image-03.jpg",
+    "counter": [
+      {
+        "title": "ROI increase",
+        "amount": 15
+      },
+      {
+        "title": "Monthly website visits",
+        "amount": 60
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
+    "projectBreif1": {
+      "image": "/images/featured/featured-brief-02.jpg",
+      "description": [
+        "We focused on showcasing craftsmanship, leather quality, and limited collections using dynamic product photography and storytelling.",
+        "Integrated personalized product recommendations powered by machine learning."
+      ]
+    },
+    "projectBreif2": {
+      "image": "",
+      "description": [
+        "Delivered a custom checkout flow with Klarna and Stripe integration.",
+        "Deployed localized shipping rules and backend inventory sync."
+      ]
+    },
+    "solution": {
+      "image": "",
+      "description": [
+        "Developed a brand-forward Shopify theme with React-based enhancements.",
+        "Automated abandoned cart recovery with Klaviyo workflows."
+      ]
+    },
+    "process": {
+      "title": "Our design process",
+      "description": "Our strategy focused on high-end feel, fast load times, and scalable commerce.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Brand audits and customer interviews.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Developed interactive product pages with rich media.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Ran usability tests with elite clientele.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Deployed and trained staff on backend management.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Periscope Data",
+    "subtitle": "featured case study",
+    "description": "Periscope Data, a business intelligence tool acquired by Sisense, partnered with us to modernize their platform’s UX for enterprise clients. The redesign focused on clarity, speed, and customization.",
+    "image": "/images/featured/featured-image-04.jpg",
+    "counter": [
+      {
+        "title": "ROI increase",
+        "amount": 15
+      },
+      {
+        "title": "Monthly website visits",
+        "amount": 60
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
+    "projectBreif1": {
+      "image": "/images/featured/featured-brief-03.jpg",
+      "description": [
+        "We audited their analytics suite, simplifying workflows for data analysts.",
+        "Created a dark-mode interface and modular dashboards for better data digestion."
+      ]
+    },
+    "projectBreif2": {
+      "image": "",
+      "description": [
+        "Conducted user research with top SaaS clients to refine pain points.",
+        "Ensured WCAG 2.1 accessibility compliance across UI."
+      ]
+    },
+    "solution": {
+      "image": "",
+      "description": [
+        "Delivered a redesigned React interface integrated with their core API.",
+        "Added real-time collaboration tools and chart versioning."
+      ]
+    },
+    "process": {
+      "title": "Our design process",
+      "description": "Our iterative strategy aligned technical goals with user-first design.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Journey mapping with data teams.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Created rapid Figma prototypes.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Conducted multi-round feedback sessions.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Final deployment with CI/CD pipelines.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "Exabeam",
+    "subtitle": "featured case study",
+    "description": "Exabeam, a cybersecurity leader, needed a rebranding campaign and microsite for launching their AI-based SIEM tool. We delivered a high-impact site focused on trust, performance, and scalability.",
+    "image": "/images/featured/featured-image-05.jpg",
+    "counter": [
+      {
+        "title": "ROI increase",
+        "amount": 15
+      },
+      {
+        "title": "Monthly website visits",
+        "amount": 60
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
+    "projectBreif1": {
+      "image": "/images/featured/featured-brief-04.jpg",
+      "description": [
+        "Built a launch microsite tailored for IT security buyers.",
+        "Created explainer videos, interactive threat maps, and a lead magnet system."
+      ]
+    },
+    "projectBreif2": {
+      "image": "",
+      "description": [
+        "Partnered with their internal team to define messaging pillars and design tone.",
+        "Delivered design kits and rollout support for internal usage."
+      ]
+    },
+    "solution": {
+      "image": "",
+      "description": [
+        "Built a headless CMS solution with Prismic and Next.js.",
+        "Integrated webinar funnel and gated content analytics."
+      ]
+    },
+    "process": {
+      "title": "Our design process",
+      "description": "A collaborative design and development sprint executed in under 6 weeks.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Stakeholder interviews and competitive review.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Interactive journey flows and motion tests.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Reviewed performance under high traffic simulation.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Scalable deployment with Vercel and Cloudflare.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  }
+]
